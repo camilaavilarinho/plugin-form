@@ -185,7 +185,7 @@
 
 	$(function() {
 	    $('form').submit(function() {
-	        alert(JSON.stringify($('form').serializeObject()));
+	        JSON.stringify($('form').serializeObject());
 	        return false;
 	    });
 	});
