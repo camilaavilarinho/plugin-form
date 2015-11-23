@@ -1,0 +1,14 @@
+@CHARSET "ISO-8859-1";
+
+
+#integration_form{
+	margin: 50px;
+	padding-right: 50px;
+	
+}
+.error{
+	color: red;	
+}
+.valid{
+	color: green;
+}
